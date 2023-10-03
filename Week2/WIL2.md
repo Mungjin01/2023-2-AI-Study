@@ -177,7 +177,7 @@ class MyLinear(nn.Module):
 
 - 이미 잘 훈련된 모델이 있고, 해당 모델과 유사한 문제를 해결할 때 사용한다
 
-여기 이 [블로그](https://www.notion.so/b5cfe12a77c949ebbeb22f59a64ef788?pvs=21)가 되게 재밌게 설명이 되어있어서 링크 첨부하는 것을 마지막으로 마무리해야겠다..ㅎ
+여기 이 [블로그](https://bskyvision.com/entry/%EC%A0%84%EC%9D%B4%ED%95%99%EC%8A%B5transfer-learning-%EC%9E%AC%EB%B0%8C%EA%B3%A0-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)가 되게 재밌게 설명이 되어있어서 링크 첨부하는 것을 마지막으로 마무리해야겠다..ㅎ
 
 ---
 
